@@ -1,2 +1,2 @@
-# imagus-sieves
+# Imagus Sieves
 Personal collection of Imagus sieves
